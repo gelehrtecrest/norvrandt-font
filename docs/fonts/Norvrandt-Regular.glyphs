@@ -1567,7 +1567,7 @@ unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2019-09-20 00:08:21 +0000";
+lastChange = "2019-09-20 01:00:39 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
@@ -1575,31 +1575,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"495 77 LINE",
-"380 3 LINE",
-"380 24 LINE",
-"282 26 LINE",
-"215 -17 LINE",
-"215 164 LINE",
-"152 81 LINE",
-"152 58 LINE",
-"57 2 LINE",
-"59 413 LINE",
-"30 413 LINE",
-"152 499 LINE",
-"152 141 LINE",
-"215 227 LINE",
-"215 304 LINE",
-"317 364 LINE",
-"309 67 LINE",
-"380 67 LINE",
-"380 413 LINE",
-"351 413 LINE",
-"495 510 LINE"
+"519 63 LINE",
+"398 -15 LINE",
+"398 7 LINE",
+"295 9 LINE",
+"225 -36 LINE",
+"225 155 LINE",
+"158 67 LINE",
+"158 43 LINE",
+"59 -16 LINE",
+"61 416 LINE",
+"30 416 LINE",
+"158 507 LINE",
+"158 130 LINE",
+"225 221 LINE",
+"225 302 LINE",
+"332 365 LINE",
+"323 53 LINE",
+"398 53 LINE",
+"398 416 LINE",
+"368 416 LINE",
+"519 518 LINE"
 );
 }
 );
-width = 525;
+width = 549;
 }
 );
 unicode = 0065;
@@ -2893,5 +2893,5 @@ manufacturer = "Gelehrte Crest";
 manufacturerURL = "http://www.gelehrte.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
