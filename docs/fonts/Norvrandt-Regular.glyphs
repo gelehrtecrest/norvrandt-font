@@ -1,7 +1,7 @@
 {
 .appVersion = "1230";
 copyright = MIT;
-date = "2019-09-23 01:09:58 +0000";
+date = "2019-09-26 02:51:47 +0000";
 designer = "Gelehrte Crest";
 designerURL = "http://www.gelehrte.com";
 familyName = Norvrandt;
@@ -1735,7 +1735,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2019-09-19 12:29:25 +0000";
+lastChange = "2019-09-26 02:49:03 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
@@ -1743,13 +1743,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"227 77 LINE",
-"30 -27 LINE",
-"118 68 LINE",
-"118 559 LINE",
-"77 559 LINE",
-"196 646 LINE",
-"227 646 LINE"
+"227 44 LINE",
+"30 -60 LINE",
+"118 35 LINE",
+"118 526 LINE",
+"77 526 LINE",
+"196 613 LINE",
+"227 613 LINE"
 );
 }
 );
@@ -2141,7 +2141,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2019-09-19 12:31:20 +0000";
+lastChange = "2019-09-26 02:46:06 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
@@ -2149,25 +2149,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"137 546 LINE",
-"137 333 LINE",
-"155 333 LINE",
-"224 382 LINE",
-"224 89 LINE",
-"48 1 LINE",
-"46 28 LINE",
-"137 75 LINE",
-"137 295 LINE",
-"120 296 LINE",
-"43 244 LINE",
-"43 489 LINE",
-"30 501 LINE",
-"131 578 LINE",
-"156 579 LINE"
+"143 536 LINE",
+"143 312 LINE",
+"161 312 LINE",
+"234 364 LINE",
+"234 56 LINE",
+"49 -37 LINE",
+"47 -8 LINE",
+"143 41 LINE",
+"143 272 LINE",
+"125 273 LINE",
+"44 219 LINE",
+"44 476 LINE",
+"30 489 LINE",
+"136 570 LINE",
+"162 571 LINE"
 );
 }
 );
-width = 254;
+width = 264;
 }
 );
 unicode = 0072;
@@ -2220,7 +2220,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2019-09-19 12:31:57 +0000";
+lastChange = "2019-09-26 02:50:06 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
@@ -2228,21 +2228,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"147 273 LINE",
-"257 364 LINE",
-"257 389 LINE",
-"362 459 LINE",
-"362 109 LINE",
-"173 1 LINE",
-"162 22 LINE",
-"257 79 LINE",
-"257 325 LINE",
-"147 214 LINE",
-"147 75 LINE",
-"51 12 LINE",
-"51 529 LINE",
-"30 544 LINE",
-"147 628 LINE"
+"147 225 LINE",
+"257 316 LINE",
+"257 341 LINE",
+"362 411 LINE",
+"362 61 LINE",
+"173 -47 LINE",
+"162 -26 LINE",
+"257 31 LINE",
+"257 277 LINE",
+"147 166 LINE",
+"147 27 LINE",
+"51 -36 LINE",
+"51 481 LINE",
+"30 496 LINE",
+"147 580 LINE"
 );
 }
 );
@@ -2450,7 +2450,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2019-09-19 12:32:55 +0000";
+lastChange = "2019-09-26 02:51:17 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
@@ -2458,43 +2458,43 @@ paths = (
 {
 closed = 1;
 nodes = (
-"434 507 OFFCURVE",
-"435 122 OFFCURVE",
-"434 33 CURVE",
-"434 3 OFFCURVE",
-"369 -30 OFFCURVE",
-"369 -33 CURVE",
-"305 -30 LINE",
-"299 1 LINE",
-"30 1 LINE",
-"30 67 LINE",
-"127 139 LINE",
-"127 139 OFFCURVE",
-"61 163 OFFCURVE",
-"44 204 CURVE",
-"28 243 OFFCURVE",
-"27 320 OFFCURVE",
-"39 366 CURVE",
-"50 411 OFFCURVE",
-"98 460 OFFCURVE",
-"141 478 CURVE",
-"182 495 OFFCURVE",
-"295 498 OFFCURVE",
-"295 498 CURVE",
-"295 498 OFFCURVE",
-"167 434 OFFCURVE",
-"143 394 CURVE",
-"123 358 OFFCURVE",
-"132 282 OFFCURVE",
-"142 252 CURVE",
-"152 229 OFFCURVE",
-"207 193 OFFCURVE",
-"207 193 CURVE",
-"207 114 LINE",
-"128 40 LINE",
-"317 40 LINE",
-"317 450 LINE",
-"434 507 LINE"
+"434 525 OFFCURVE",
+"435 140 OFFCURVE",
+"434 51 CURVE",
+"434 21 OFFCURVE",
+"369 -12 OFFCURVE",
+"369 -15 CURVE",
+"305 -12 LINE",
+"299 19 LINE",
+"30 19 LINE",
+"30 85 LINE",
+"127 157 LINE",
+"127 157 OFFCURVE",
+"61 181 OFFCURVE",
+"44 222 CURVE",
+"28 261 OFFCURVE",
+"27 338 OFFCURVE",
+"39 384 CURVE",
+"50 429 OFFCURVE",
+"98 478 OFFCURVE",
+"141 496 CURVE",
+"182 513 OFFCURVE",
+"295 516 OFFCURVE",
+"295 516 CURVE",
+"295 516 OFFCURVE",
+"167 452 OFFCURVE",
+"143 412 CURVE",
+"123 376 OFFCURVE",
+"132 300 OFFCURVE",
+"142 270 CURVE",
+"152 247 OFFCURVE",
+"207 211 OFFCURVE",
+"207 211 CURVE",
+"207 132 LINE",
+"128 58 LINE",
+"317 58 LINE",
+"317 468 LINE",
+"434 525 LINE"
 );
 }
 );
@@ -2893,5 +2893,5 @@ manufacturer = "Gelehrte Crest";
 manufacturerURL = "http://www.gelehrte.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 7;
+versionMinor = 8;
 }
