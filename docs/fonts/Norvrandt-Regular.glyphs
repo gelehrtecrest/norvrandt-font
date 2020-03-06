@@ -1,5 +1,8 @@
 {
-.appVersion = "1230";
+.appVersion = "1286";
+DisplayStrings = (
+"-"
+);
 copyright = MIT;
 date = "2019-09-26 02:51:47 +0000";
 designer = "Gelehrte Crest";
@@ -2842,30 +2845,129 @@ unicode = 0039;
 },
 {
 glyphname = period;
+lastChange = "2020-03-06 19:14:25 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"84 108 LINE",
+"114 108 OFFCURVE",
+"138 84 OFFCURVE",
+"138 55 CURVE",
+"138 25 OFFCURVE",
+"114 1 OFFCURVE",
+"84 1 CURVE",
+"54 1 OFFCURVE",
+"30 25 OFFCURVE",
+"30 55 CURVE",
+"30 84 OFFCURVE",
+"54 108 OFFCURVE",
+"84 108 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83 74 LINE",
+"94 74 OFFCURVE",
+"102 66 OFFCURVE",
+"102 55 CURVE",
+"102 45 OFFCURVE",
+"94 36 OFFCURVE",
+"83 36 CURVE",
+"73 36 OFFCURVE",
+"65 45 OFFCURVE",
+"65 55 CURVE",
+"65 66 OFFCURVE",
+"73 74 OFFCURVE",
+"83 74 CURVE"
+);
+}
+);
+width = 168;
 }
 );
 unicode = 002E;
 },
 {
 glyphname = comma;
+lastChange = "2020-03-06 19:15:08 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"59 81 LINE",
+"112 81 LINE",
+"112 31 LINE",
+"59 31 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"84 108 LINE",
+"114 108 OFFCURVE",
+"138 84 OFFCURVE",
+"138 55 CURVE",
+"138 25 OFFCURVE",
+"114 1 OFFCURVE",
+"84 1 CURVE",
+"54 1 OFFCURVE",
+"30 25 OFFCURVE",
+"30 55 CURVE",
+"30 84 OFFCURVE",
+"54 108 OFFCURVE",
+"84 108 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"83 74 LINE",
+"94 74 OFFCURVE",
+"102 66 OFFCURVE",
+"102 55 CURVE",
+"102 45 OFFCURVE",
+"94 36 OFFCURVE",
+"83 36 CURVE",
+"73 36 OFFCURVE",
+"65 45 OFFCURVE",
+"65 55 CURVE",
+"65 66 OFFCURVE",
+"73 74 OFFCURVE",
+"83 74 CURVE"
+);
+}
+);
+width = 168;
 }
 );
 unicode = 002C;
 },
 {
 glyphname = hyphen;
+lastChange = "2020-03-06 19:16:00 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"30 298 LINE",
+"402 298 LINE",
+"402 243 LINE",
+"30 243 LINE"
+);
+}
+);
+width = 432;
 }
 );
 unicode = 002D;
