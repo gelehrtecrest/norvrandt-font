@@ -1,10 +1,7 @@
 {
 .appVersion = "1286";
-DisplayStrings = (
-"."
-);
 copyright = MIT;
-date = "2019-09-26 02:51:47 +0000";
+date = "2020-08-16 01:07:02 +0000";
 designer = "Gelehrte Crest";
 designerURL = "http://www.gelehrte.com";
 familyName = Norvrandt;
@@ -2765,20 +2762,68 @@ unicode = 0035;
 },
 {
 glyphname = six;
+lastChange = "2020-08-16 01:01:09 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"329 670 LINE",
+"330 191 LINE",
+"48 1 LINE",
+"48 559 LINE",
+"30 584 LINE",
+"89 670 LINE",
+"119 670 LINE",
+"119 279 LINE",
+"261 211 LINE",
+"261 670 LINE",
+"329 669 LINE"
+);
+}
+);
+width = 360;
 }
 );
 unicode = 0036;
 },
 {
 glyphname = seven;
+lastChange = "2020-08-16 01:03:14 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"330 670 LINE",
+"330 190 LINE",
+"43 1 LINE",
+"43 557 LINE",
+"30 583 LINE",
+"92 670 LINE",
+"118 670 LINE",
+"118 526 LINE",
+"263 598 LINE",
+"263 670 LINE",
+"329 668 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"118 282 LINE",
+"263 235 LINE",
+"263 489 LINE",
+"118 412 LINE",
+"119 282 LINE"
+);
+}
+);
+width = 360;
 }
 );
 unicode = 0037;
@@ -2835,10 +2880,32 @@ unicode = 0038;
 },
 {
 glyphname = nine;
+lastChange = "2020-08-16 01:06:36 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"326 670 LINE",
+"329 70 LINE",
+"255 70 LINE",
+"118 446 LINE",
+"118 1 LINE",
+"43 1 LINE",
+"43 559 LINE",
+"30 585 LINE",
+"93 670 LINE",
+"118 670 LINE",
+"118 599 LINE",
+"258 599 LINE",
+"258 670 LINE",
+"326 671 LINE"
+);
+}
+);
+width = 359;
 }
 );
 unicode = 0039;
@@ -2992,6 +3059,6 @@ name = Regular;
 manufacturer = "Gelehrte Crest";
 manufacturerURL = "http://www.gelehrte.com";
 unitsPerEm = 1000;
-versionMajor = 1;
-versionMinor = 8;
+versionMajor = 2;
+versionMinor = 0;
 }
