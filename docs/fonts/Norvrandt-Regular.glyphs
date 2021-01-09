@@ -1,7 +1,7 @@
 {
-.appVersion = "1286";
+.appVersion = "3039";
 copyright = MIT;
-date = "2020-08-16 01:07:02 +0000";
+date = "2021-01-09 05:40:45 +0000";
 designer = "Gelehrte Crest";
 designerURL = "http://www.gelehrte.com";
 familyName = Norvrandt;
@@ -3039,10 +3039,11 @@ unicode = 002D;
 },
 {
 glyphname = space;
+lastChange = "2021-01-09 05:40:36 +0000";
 layers = (
 {
 layerId = "FC429158-EA96-492C-B709-B39596C20987";
-width = 600;
+width = 200;
 }
 );
 unicode = 0020;
@@ -3060,5 +3061,5 @@ manufacturer = "Gelehrte Crest";
 manufacturerURL = "http://www.gelehrte.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
